@@ -10,9 +10,9 @@
 ## Screenshots
 
 ### Gameplay
-![Gameplay_1](screenshots/gameplay0.png)
-![GamePlay_2](screenshots/gameplay1.png)
+![Gameplay_1](screenshots/Gameplay0.png)
+![GamePlay_2](screenshots/Gameplay1.png)
 ### Menu
-![Menu](screenshots/menu.png)
+![Menu](screenshots/Menu.png)
 ### Gameover
-![Gameover](screenshots/gameover.png)
+![Gameover](screenshots/Gameover.png)
